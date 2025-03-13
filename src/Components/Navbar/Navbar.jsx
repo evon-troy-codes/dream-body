@@ -11,6 +11,7 @@ const Navbar = () => {
         <li>PROCEDURES</li>
         <li>PHOTOS & REVIEWS</li>
         <li>FORUMS</li>
+        <li>ACCOUNT</li>
         <li>
           <button className="btn">CONTACT US</button>
         </li>
